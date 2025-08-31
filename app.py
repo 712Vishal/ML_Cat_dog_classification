@@ -1,5 +1,3 @@
--- pip install tensorflow
-
 
 import os
 import numpy as np
