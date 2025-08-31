@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import os
 import numpy as np
 import streamlit as st
@@ -158,5 +158,5 @@ st.markdown(
 3. **Predict:** The model outputs a probability; ≥ 0.5 ⇒ **dog**, else **cat**.
 """
 )
->>>>>>> 9185ed40df6494ac0cd89693e0d6831546627448
+
 st.markdown("Developed by Vishal")
